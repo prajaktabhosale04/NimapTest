@@ -1,13 +1,13 @@
 To run the server, cd into the `sample-server` directory and run:
  
-npm i
-npm start
+- npm i
+- npm start
 
 
 To run the client, cd into the `MyAngularClient` directory and run:
  
-npm install 
-npm start
+- npm install 
+- npm start
 
 
 ========SQL SCRIPT ==================
