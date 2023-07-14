@@ -15,7 +15,7 @@ If got error on openssl then execute below command:
 
 
 ========SQL SCRIPT ==================
-PostgresSQL
+- PostgresSQL
 
 CREATE TABLE PRODUCT(
    ID VARCHAR(50) PRIMARY KEY     NOT NULL,
