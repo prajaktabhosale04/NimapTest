@@ -9,6 +9,10 @@ To run the client, cd into the `MyAngularClient` directory and run:
 - npm install 
 - npm start
 
+Note:
+If got error on openssl then execute below command:
+- set NODE_OPTIONS=--openssl-legacy-provider
+
 
 ========SQL SCRIPT ==================
 
